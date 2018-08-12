@@ -1,0 +1,5 @@
+print(list(range(10)), end=" ")
+print()
+print(list(range(1, 11)), end=" ")
+print()
+print(list(range(1, 11, 5)), end=" ")
